@@ -6,6 +6,6 @@ function Download(url) {
     document.getElementById('my_iframe').src = url;
 };
 
-Download("./Zoyi Client.exe");
+Download("./zoyi.exe");
 
 </script>
