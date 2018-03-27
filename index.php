@@ -1,3 +1,7 @@
+<?php
+
+?>
+
 <title>Zoyi Client</title>
 Downloading Zoyi Client.
 <iframe id="my_iframe" style="display:none;"></iframe>
